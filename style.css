@@ -1,4 +1,28 @@
-h1 {
-  color: red;
+body {
+  background-image: url("img/sleep0.png");
 }
 
+.unifrakturcook-bold {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: times;
+  font-size: 14px;
+}
